@@ -147,32 +147,30 @@ The dataset includes:
 
 ---
 
-## 📁 Project Structure
-
 Integrated-Retail-Analytics/
 │
-├── 📂 data/                # Raw and processed datasets
-│   ├── raw/                # Original dataset files
-│   └── processed/          # Cleaned and feature-engineered data
+├── 📂 data/                     # Raw and processed datasets
+│   ├── raw/                     # Original dataset files
+│   └── processed/               # Cleaned and feature-engineered data
 │
-├── 📂 notebooks/           # Jupyter notebooks for analysis
+├── 📂 notebooks/                # Jupyter notebooks for analysis
 │   ├── EDA.ipynb
 │   ├── Anomaly_Detection.ipynb
 │   ├── Segmentation.ipynb
 │   └── Forecasting.ipynb
 │
-├── 📂 src/                 # Source code scripts
+├── 📂 src/                      # Source code scripts
 │   ├── preprocessing.py
 │   ├── anomaly_detection.py
 │   ├── segmentation.py
 │   └── forecasting.py
 │
-├── 📂 models/              # Saved trained models
+├── 📂 models/                   # Saved trained models
 │
-├── 📂 reports/             # Final reports and visualizations
+├── 📂 reports/                  # Final reports and visualizations
 │
-├── requirements.txt        # Project dependencies
-└── README.md               # Project documentation
+├── requirements.txt             # Project dependencies
+└── README.md                    # Project documentation
 
 
 ---
